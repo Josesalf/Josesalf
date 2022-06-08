@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Josesalf
+- 👀 I’m interested in learn more about programming
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on any proyect :D
